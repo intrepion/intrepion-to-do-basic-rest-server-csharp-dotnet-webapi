@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.WebApi", "ToDoApp.WebApi\ToDoApp.WebApi.csproj", "{98068ED2-2B06-4563-8885-848430267E97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp.Tests", "ToDoApp.Tests\ToDoApp.Tests.csproj", "{BAF4F84B-D4F8-4C57-8639-B637C2BBC23B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{98068ED2-2B06-4563-8885-848430267E97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98068ED2-2B06-4563-8885-848430267E97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98068ED2-2B06-4563-8885-848430267E97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF4F84B-D4F8-4C57-8639-B637C2BBC23B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF4F84B-D4F8-4C57-8639-B637C2BBC23B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF4F84B-D4F8-4C57-8639-B637C2BBC23B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF4F84B-D4F8-4C57-8639-B637C2BBC23B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
